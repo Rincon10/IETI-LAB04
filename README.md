@@ -5,6 +5,9 @@
 3. Create base layout for the login ( email box, password box, login button, basic styling ), you should use a UI Library like [mui](https://mui.com/) or [ant](https://ant.design/)
 4. Make sure you identify all those potential components and split your code according to it.
 
+
+<img src="https://github.com/Rincon10/IETI-LAB04/blob/main/resources/img/planner.jpg" />
+
 ## React Challenge
 1. Instead of just using CSS, let's implement your styles using [SASS](https://sass-lang.com/). Read installation manual and replace your .css files by .scss ones
 
